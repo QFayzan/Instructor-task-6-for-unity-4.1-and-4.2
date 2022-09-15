@@ -1,0 +1,13 @@
+Instructor task for 4.1 to 4.2 Bumper.io
+Instructions:                                                                                                                
+Make the Kill Logic, size increase on each kill. (Total Players count should be Generic) 
+Create a multi focus camera which will calculate the “Bounds” of all players present in the scene.
+Each Kill will change Killer’s Texture as well.
+
+Bonus:
+Make Kills LeaderBoard
+Make random variations in enemy size, mass at the start of the game to increase difficulty
+
+step 1 use the base from 4.1 
+step 2 make 1 prefab for player and  3 to 4 for enemies
+step 3 make 
